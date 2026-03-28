@@ -114,13 +114,13 @@ Web Dev         █████░░░░░
     <img src="https://img.shields.io/badge/LinkedIn-Goutam_Sethi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:goutamsethi5050@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  📩 <b>Email:</b> your-email@gmail.com
+  📩 <b>Email:</b> goutamsethi5050@gmail.com@gmail.com
 </p>
 
 ---
