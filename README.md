@@ -13,7 +13,7 @@
 * 🤖 ML + Data Science focused
 * 🧠 Strong in DSA & Problem Solving
 * ⚡ Currently: **Machine Learning + DSA + Backend**
-* 🎯 Goal: Crack top tech roles (JP Morgan level 🚀)
+* 🎯 Goal: Crack top tech roles
 
 ---
 
@@ -97,15 +97,13 @@
 ## 📊 Current Focus
 
 ```
-DSA            █████████░░░
+DSA              █████████░░░
 Machine Learning ████████░░
-Backend         ███████░░░
-Web Dev         █████░░░░░
+Backend          ███████░░░
+Web Dev          █████░░░░░
 ```
 
 ---
-
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
