@@ -78,12 +78,6 @@
 * ML models for prediction
 * Helps improve hospital decision-making
 
-### 🏠 House Price Prediction
-
-* Regression model
-* Feature engineering + preprocessing
-* Accurate price estimation
-
 ---
 
 ## 📈 Contribution Snake 🐍
@@ -118,7 +112,7 @@ Web Dev          █████░░░░░
 </p>
 
 <p align="center">
-  📩 <b>Email:</b> goutamsethi5050@gmail.com@gmail.com
+  📩 <b>Email:</b> goutamsethi5050@gmail.com
 </p>
 
 ---
