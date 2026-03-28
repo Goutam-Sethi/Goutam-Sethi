@@ -1,22 +1,50 @@
 <h1 align="center">Hey 👋, I'm Goutam Sethi</h1>
-<h3 align="center">CSE (AI) Student | Aspiring Software Engineer</h3>
+<h3 align="center">🚀 CSE (AI) Student | Future Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;DSA+Learner;Future+Backend+Engineer;Building+Real+World+Projects" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **Machine Learning Projects**
-* 📊 Exploring **Diabetes Readmission Prediction (Real Dataset)**
-* 🌱 Learning **DSA + System Design**
-* 💡 Interested in **Finance + Data + Backend Systems**
-* 🎯 Goal: Crack top tech roles & build impactful systems
+* 🎓 CSE (AI) @ Chitkara University
+* 🤖 ML + Data Science focused
+* 🧠 Strong in DSA & Problem Solving
+* ⚡ Currently: **Machine Learning + DSA + Backend**
+* 🎯 Goal: Crack top tech roles (JP Morgan level 🚀)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,git,github" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+</p>
+
+### 📊 ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <br/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+</p>
+
+### 🌐 Web Dev
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,django" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
 ---
@@ -24,33 +52,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+
+  <img src="https://streak-stats.demolab.com?user=Goutam-Sethi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/Sethi_Goutam?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
@@ -59,26 +74,58 @@
 
 ### 🧠 Diabetes Readmission Prediction
 
-* Built using real-world healthcare dataset
-* Applied ML models to predict patient readmission
-* Focus on improving hospital decision-making
+* Real-world healthcare dataset
+* ML models for prediction
+* Helps improve hospital decision-making
 
 ### 🏠 House Price Prediction
 
-* Regression-based ML model
-* Data preprocessing + feature engineering
-* Predicts housing prices with good accuracy
+* Regression model
+* Feature engineering + preprocessing
+* Accurate price estimation
+
+---
+
+## 📈 Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📊 Current Focus
+
+```
+DSA            █████████░░░
+Machine Learning ████████░░
+Backend         ███████░░░
+Web Dev         █████░░░░░
+```
 
 ---
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/goutam-sethi-27b809324">
+    <img src="https://img.shields.io/badge/LinkedIn-Goutam_Sethi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📩 <b>Email:</b> your-email@gmail.com
 </p>
 
 ---
 
-<h3 align="center">💡 “Consistency beats talent when talent doesn’t work hard.”</h3>
+
+---
+
+<h3 align="center">⚡ "I don’t just learn AI... I build with it 🚀"</h3>
