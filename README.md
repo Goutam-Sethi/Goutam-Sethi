@@ -1,123 +1,108 @@
-<h1 align="center">Hey 👋, I'm Goutam Sethi</h1>
-<h3 align="center">🚀 CSE (AI) Student | Future Software Engineer</h3>
+<h1 align="center">Hi, I'm Goutam Sethi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;DSA+Learner;Future+Backend+Engineer;Building+Real+World+Projects" />
+  <b>CSE (AI) Student | Software Engineer in Progress</b>
+</p>
+
+<p align="center">
+  I build software, solve problems, and explore Machine Learning.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 CSE (AI) @ Chitkara University
-* 🤖 ML + Data Science focused
-* 🧠 Strong in DSA & Problem Solving
-* ⚡ Currently: **Machine Learning + DSA + Backend**
-* 🎯 Goal: Crack top tech roles
+* 🎓 CSE (AI) student at **Chitkara University**
+* 💻 Interested in **Software Engineering, Backend Development & Machine Learning**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🔨 Building projects to strengthen my development skills
+* 📚 Currently learning **JavaScript, Backend Development, ML and System Design**
+* 🎯 Preparing for software engineering opportunities
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
-### 📊 ML & Data Science
+### Machine Learning & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <br/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 🌐 Web Dev
+### Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,flask" />
 </p>
 
-### 🗄️ Databases
+### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-<p align="center">
+### Diabetes Readmission Prediction
 
-  <img src="https://streak-stats.demolab.com?user=Goutam-Sethi&theme=tokyonight&hide_border=true" />
-</p>
+Machine Learning project focused on predicting hospital readmission using healthcare data.
 
----
-
-
+**Focus:** Data preprocessing · Feature engineering · Machine Learning · Model evaluation
 
 ---
 
-## 🧠 LeetCode Stats
+### Traffic Racing Game
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sethi_Goutam?theme=dark&font=Baloo&ext=contest" />
-</p>
+A browser-based racing game built to strengthen JavaScript fundamentals and understand game logic.
 
----
-
-## 🔥 Featured Projects
-
-### 🧠 Diabetes Readmission Prediction
-
-* Real-world healthcare dataset
-* ML models for prediction
-* Helps improve hospital decision-making
+**Focus:** JavaScript · DOM · Game loops · Collision detection · SVG graphics
 
 ---
 
-## 📈 Contribution Snake 🐍
+## Problem Solving
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+I regularly practice Data Structures & Algorithms to improve my problem-solving and coding skills.
 
----
+**Topics:** Arrays · Strings · Linked Lists · Stacks · Queues · Heaps · Binary Search · Two Pointers · Sliding Window · Trees · Graphs
 
-## 📊 Current Focus
-
-```
-DSA              █████████░░░
-Machine Learning ████████░░
-Backend          ███████░░░
-Web Dev          █████░░░░░
-```
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square\&logo=leetcode)](https://leetcode.com/u/Sethi_Goutam/)
 
 ---
 
-## 🤝 Connect With Me
+## Currently Learning
 
-<p align="center">
+* Data Structures & Algorithms
+* JavaScript & Backend Development
+* Machine Learning
+* System Design
+* Software Engineering Best Practices
+
+---
+
+## Connect
+
+<p>
   <a href="https://www.linkedin.com/in/goutam-sethi-27b809324">
-    <img src="https://img.shields.io/badge/LinkedIn-Goutam_Sethi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:goutamsethi5050@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
-  📩 <b>Email:</b> goutamsethi5050@gmail.com
+  <i>Building. Learning. Improving.</i>
 </p>
-
----
-
-
----
-
-<h3 align="center">⚡ "I don’t just learn AI... I build with it 🚀"</h3>
