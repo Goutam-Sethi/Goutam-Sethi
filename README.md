@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Goutam Sethi</h1>
 
 <p align="center">
-  <b>CSE (AI) Student | Software Engineer in Progress</b>
+  <b>CSE (AI) Student | Software Engineer</b>
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ## About Me
 
-* 🎓 CSE (AI) student at **Chitkara University**
-* 💻 Interested in **Software Engineering, Backend Development & Machine Learning**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🔨 Building projects to strengthen my development skills
-* 📚 Currently learning **JavaScript, Backend Development, ML and System Design**
-* 🎯 Preparing for software engineering opportunities
+* CSE (AI) student at **Chitkara University**
+* Interested in **Software Engineering, Backend Development & Machine Learning**
+* Practicing **Data Structures & Algorithms**
+* Building projects to strengthen my development skills
+* Currently learning **JavaScript, Backend Development, Machine Learning & System Design**
+* Preparing for software engineering opportunities
 
 ---
 
@@ -29,32 +29,31 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
-### Machine Learning & Data Science
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+</p>
+
+### Machine Learning
+
+<p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-### Web & Backend
+### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,flask" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Diabetes Readmission Prediction
+### 🧠 Diabetes Readmission Prediction
 
 Machine Learning project focused on predicting hospital readmission using healthcare data.
 
@@ -62,21 +61,40 @@ Machine Learning project focused on predicting hospital readmission using health
 
 ---
 
-### Traffic Racing Game
+### 🏎️ Traffic Racing Game
 
-A browser-based racing game built to strengthen JavaScript fundamentals and understand game logic.
+A browser-based racing game built to strengthen JavaScript fundamentals and understand game development concepts.
 
-**Focus:** JavaScript · DOM · Game loops · Collision detection · SVG graphics
+**Focus:** JavaScript · Game logic · Collision detection · SVG graphics · DOM manipulation
 
 ---
 
 ## Problem Solving
 
-I regularly practice Data Structures & Algorithms to improve my problem-solving and coding skills.
+<div align="center">
 
-**Topics:** Arrays · Strings · Linked Lists · Stacks · Queues · Heaps · Binary Search · Two Pointers · Sliding Window · Trees · Graphs
+I regularly practice <b>Data Structures & Algorithms</b> to improve my problem-solving and coding skills.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square\&logo=leetcode)](https://leetcode.com/u/Sethi_Goutam/)
+<br>
+
+<b>Arrays · Strings · Linked Lists · Stacks · Queues · Heaps · Binary Search · Two Pointers · Sliding Window · Trees · Graphs</b>
+
+<br><br>
+
+<b>283 Problems Solved</b>
+
+<br>
+
+Easy: 103  ·  Medium: 153  ·  Hard: 27
+
+<br><br>
+
+<a href="https://leetcode.com/u/Sethi_Goutam/">
+  <b>View LeetCode Profile →</b>
+</a>
+
+</div>
+
 
 ---
 
@@ -90,18 +108,21 @@ I regularly practice Data Structures & Algorithms to improve my problem-solving 
 
 ---
 
-## Connect
+## Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/goutam-sethi-27b809324">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:goutamsethi5050@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Goutam-Sethi">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Building. Learning. Improving.</i>
