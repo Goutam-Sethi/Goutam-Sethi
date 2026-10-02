@@ -26,7 +26,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
 </p>
 
 ### Web Development
@@ -53,48 +53,48 @@
 
 ## Featured Projects
 
-### 🧠 Diabetes Readmission Prediction
+### CodeVault — Version Control System
 
-Machine Learning project focused on predicting hospital readmission using healthcare data.
+A lightweight version control system built from scratch in C, inspired by the core concepts behind Git.
 
-**Focus:** Data preprocessing · Feature engineering · Machine Learning · Model evaluation
-
----
-
-### 🏎️ Traffic Racing Game
-
-A browser-based racing game built to strengthen JavaScript fundamentals and understand game development concepts.
-
-**Focus:** JavaScript · Game logic · Collision detection · SVG graphics · DOM manipulation
+**Focus:** C · File Systems · Hashing · Version Control · CLI · Linux System Calls
 
 ---
 
-## Problem Solving
+### Traffic Racing Game
 
-<div align="center">
+A browser-based 2D racing game built to strengthen JavaScript fundamentals and understand game development concepts.
 
-I regularly practice <b>Data Structures & Algorithms</b> to improve my problem-solving and coding skills.
+**Focus:** JavaScript · Game Logic · Collision Detection · SVG Graphics · DOM Manipulation
 
-<br>
+---
 
-<b>Arrays · Strings · Linked Lists · Stacks · Queues · Heaps · Binary Search · Two Pointers · Sliding Window · Trees · Graphs</b>
+## GitHub & LeetCode
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goutam-Sethi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goutam-Sethi&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<b>283 Problems Solved</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam-Sethi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+</p>
 
-<br>
+---
 
-Easy: 103  ·  Medium: 153  ·  Hard: 27
+## LeetCode
 
-<br><br>
+<p align="center">
+  <a href="https://leetcode.com/u/Sethi_Goutam/">
+    <img src="https://leetcode-stats-six.vercel.app/Sethi_Goutam?theme=dark" width="700"/>
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/Sethi_Goutam/">
-  <b>View LeetCode Profile →</b>
-</a>
-
-</div>
-
+<p align="center">
+  <a href="https://leetcode.com/u/Sethi_Goutam/">
+    <b>View My LeetCode Profile</b>
+  </a>
+</p>
 
 ---
 
@@ -105,6 +105,7 @@ Easy: 103  ·  Medium: 153  ·  Hard: 27
 * Machine Learning
 * System Design
 * Software Engineering Best Practices
+* Linux & System Programming
 
 ---
 
